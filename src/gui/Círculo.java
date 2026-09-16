@@ -117,5 +117,6 @@ public class Círculo extends JDialog implements ActionListener {
 		}
 	}
 	protected void do_btnNewButton_actionPerformed(ActionEvent e) {
+		//Insertar accion
 	}
 }
